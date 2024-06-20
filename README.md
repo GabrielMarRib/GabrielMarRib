@@ -10,20 +10,21 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-
+<hr />
 
         import {GabrielStats} from 'Github';
+        import {GabrielMostUsedLanguages} from 'Github';
         const Profile () => {
         return(
         <>
           <GabrielStats />
-          
+          <GabrielMostUsedLanguages />
         </>
         
         )
       }
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api?username=GabrielMarRib&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats" alt="Anurag's GitHub stats-Light" style="margin-right: 20px;" />
   <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api/top-langs/?username=GabrielMarRib&hide_progress=false" alt="Top Langs" style="margin-left: 20px;" />
 </div>
