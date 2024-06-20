@@ -23,18 +23,12 @@
         )
       }
 
-<div style="display: flex; flex-direction: row">
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats-azure-alpha-91.vercel.app/api?username=GabrielMarRib&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats)
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api?username=GabrielMarRib&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats" alt="Anurag's GitHub stats-Light" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api/top-langs/?username=GabrielMarRib&hide_progress=false" alt="Top Langs" style="margin-left: 20px;" />
 </div>
 
-<div>
 
-![Top Langs](https://github-readme-stats-azure-alpha-91.vercel.app/api/top-langs/?username=GabrielMarRib&hide_progress=false)
-</div>
-
-</div>
 
 <hr />
 <div> 
