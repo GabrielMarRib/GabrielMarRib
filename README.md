@@ -12,15 +12,18 @@
 </div>
 
 
-        import {Gabriel} from 'Real-life';
+        import {GabrielStats} from 'Github';
+        const Profile () => {
         return(
         <>
-          age: Gabriel.age;
-          sex: Gabriel.Sex;
+          <GabrielStats />
           
         </>
         
         )
+      }
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's-Stats)
 
 <hr />
 <div> 
