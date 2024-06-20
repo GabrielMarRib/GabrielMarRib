@@ -23,7 +23,13 @@
         )
       }
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's-Stats)
+<div style="display: inline_block">
+  
+![Anurag's GitHub stats](https://github-readme-stats-nu-two-45.vercel.app/api?username=Gabriel&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's-Stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel&hide_progress=true)
+
+</div>
 
 <hr />
 <div> 
