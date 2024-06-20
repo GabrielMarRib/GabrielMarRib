@@ -1,4 +1,4 @@
-## ⚡< Dev />⚡
+## ⚡< Hi There, I'm Gabriel />⚡
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,11 +23,16 @@
         )
       }
 
-<div style="display: inline_block">
+<div style="display: flex; flex-direction: row">
+<div>
   
-![Anurag's GitHub stats](https://github-readme-stats-nu-two-45.vercel.app/api?username=Gabriel&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's-Stats)
+![Anurag's GitHub stats](https://github-readme-stats-azure-alpha-91.vercel.app/api?username=GabrielMarRib&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel&hide_progress=true)
+<div>
+
+![Top Langs](https://github-readme-stats-azure-alpha-91.vercel.app/api/top-langs/?username=GabrielMarRib&hide_progress=false)
+</div>
 
 </div>
 
