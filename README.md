@@ -25,7 +25,7 @@
       }
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api?username=GabrielMarRib&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats" alt="Anurag's GitHub stats-Light" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api?username=Gabriel&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats" alt="Anurag's GitHub stats-Light" style="margin-right: 20px;" />
   <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api/top-langs/?username=GabrielMarRib&hide_progress=false" alt="Top Langs" style="margin-left: 20px;" />
 </div>
 
