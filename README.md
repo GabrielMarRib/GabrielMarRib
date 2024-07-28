@@ -1,5 +1,17 @@
 ## ⚡< Hi There, I'm Gabriel />⚡
 
+
+<div align="center" >
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d07ed&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=05a6e6&vCenter=true&width=600&height=70&lines=Gabriel+Marques+Ribeiro;GabrielMarRib;Desenvolvedor+em+aprendizado;Java+<3)](https://git.io/typing-svg)
+ 
+</div>
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -39,6 +51,27 @@
   <a href="https://www.linkedin.com/in/gabriel-marques-ribeiro-978958265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+
+
+
+
+<p align="center">
+  <img  src="github-contribution-grid-snake.svg"
+    alt="example" />
+</p></td></tr></table>
+
+
+</div><br>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielMarRib}/count.svg" /></p>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d07ed&height=120&section=footer"/>
+
 <!--
 **GabrielMarRib/GabrielMarRib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
