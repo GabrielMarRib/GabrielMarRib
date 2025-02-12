@@ -37,25 +37,8 @@
         )
       }
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api?username=Gabriel&show_icons=true&theme=dracula&locale=pt-br&custom_title=Gabriel's_Stats" alt="Anurag's GitHub stats-Light" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats-azure-alpha-91.vercel.app/api/top-langs/?username=GabrielMarRib&hide_progress=false" alt="Top Langs" style="margin-left: 20px;" />
-</div>
 
 
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img  src="github-contribution-grid-snake.svg"
-    alt="example" />
-</p></td></tr></table>
 
 
 </div><br>
@@ -67,7 +50,7 @@
 
 <hr />
 <div> 
-  <a href="https://instagram.com/gabrisamer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabri.samer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsamer8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-marques-ribeiro-978958265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
