@@ -25,13 +25,13 @@
 </div>
 <hr />
 
-        import {GabrielStats} from 'Github';
-        import {GabrielMostUsedLanguages} from 'Github';
+        import {GabrielProfile} from 'Github';
+  
         const Profile () => {
         return(
         <>
-          <GabrielStats />
-          <GabrielMostUsedLanguages />
+          <GabrielProfile />
+         
         </>
         
         )
